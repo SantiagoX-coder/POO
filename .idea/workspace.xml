@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6feb87ec-86cf-4996-8333-75177ea73626" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -28,6 +29,9 @@
       <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="47a22d78-2aca-40a4-bbf2-64b677c458f4" name="Changes" comment="" />
+>>>>>>> 46654cd (Agrego configuraciones de IntelliJ)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -62,10 +67,17 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="32hRflrvVVZgGiSNl64yhdhiPA2" />
+>>>>>>> 46654cd (Agrego configuraciones de IntelliJ)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -86,6 +98,18 @@
       <recent name="C:\Users\Luisa\U---Repositorio\ColaborativoPoo1\Taller1" />
     </key>
   </component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Luisa/U---Repositorio/Main/src/Main.java"
+  }
+}]]></component>
+>>>>>>> 46654cd (Agrego configuraciones de IntelliJ)
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,6 +119,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="6feb87ec-86cf-4996-8333-75177ea73626" name="Changes" comment="" />
       <created>1757922701610</created>
       <option name="number" value="Default" />
@@ -146,4 +171,14 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+      <changelist id="47a22d78-2aca-40a4-bbf2-64b677c458f4" name="Changes" comment="" />
+      <created>1757870923065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757870923065</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> 46654cd (Agrego configuraciones de IntelliJ)
 </project>

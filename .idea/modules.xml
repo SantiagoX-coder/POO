@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ColaborativoPoo1.iml" filepath="$PROJECT_DIR$/ColaborativoPoo1.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/ColaboratiboPoo1-2.iml" filepath="$PROJECT_DIR$/ColaboratiboPoo1-2.iml" />
->>>>>>> 34eb4c3 (Primer commit desde ColaborativoPoo1.2)
+      <module fileurl="file://$PROJECT_DIR$/ActividadUni1-POO/ActividadUni1-POO.iml" filepath="$PROJECT_DIR$/ActividadUni1-POO/ActividadUni1-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/U---Repositorio.iml" filepath="$PROJECT_DIR$/.idea/U---Repositorio.iml" />
     </modules>
   </component>
 </project>
