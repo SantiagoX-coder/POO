@@ -5,6 +5,7 @@
   </component>
 
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6feb87ec-86cf-4996-8333-75177ea73626" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -18,6 +19,16 @@
       <change afterPath="$PROJECT_DIR$/Taller1/src/StaticIncorrecto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+=======
+    <list default="true" id="47a22d78-2aca-40a4-bbf2-64b677c458f4" name="Changes" comment="Agregar ActividadUni1-POO">
+      <change afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ActividadUni1-POO/ActividadUni1-POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ActividadUni1-POO/ActividadUni1-POO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ActividadUni1-POO/src/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/ActividadUni1-POO/src/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ActividadUni1-POO/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+>>>>>>> 860ba76 (Taller 4)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
 
   <component name="GitHubPullRequestSearchHistory">{
     &quot;lastFilter&quot;: {
@@ -51,6 +63,11 @@
     }
   }</component>
 
+=======
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+>>>>>>> 860ba76 (Taller 4)
   <component name="ProjectColorInfo">{
     &quot;associatedIndex&quot;: 4
   }</component>
@@ -65,6 +82,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
 
   <component name="PropertiesComponent">{
     &quot;keyToString&quot;: {
@@ -88,6 +106,26 @@
     </key>
   </component>
 
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Clasemain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Luisa/U---Repositorio/ActividadUni1-POO/untitled/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+>>>>>>> 860ba76 (Taller 4)
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,6 +142,49 @@
       <option name="presentableId" value="Default" />
       <updated>1757922701610</updated>
     </task>
+    <task id="LOCAL-00001" summary="Agregar ActividadUni1-POO">
+      <option name="closed" value="true" />
+      <created>1757901198391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757901198391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+<<<<<<< HEAD
 </project>
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregar ActividadUni1-POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar ActividadUni1-POO" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ActividadUni1-POO/src/Libro.java</url>
+          <line>41</line>
+          <properties class="Libro" method="mostrarDetalles">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
+>>>>>>> 860ba76 (Taller 4)
